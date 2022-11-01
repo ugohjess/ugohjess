@@ -11,5 +11,3 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessicaugoji16/)
 
-
-⚡ Fun fact: I love to travel as this lets me learn more about people and their culture
