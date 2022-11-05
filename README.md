@@ -3,7 +3,7 @@
 👋 I'm Jessica. 
 
 
-🔭 My current focus is Data Ananlysis/ Business Intelligence with SQL and  Data Visualisation with Power BI.
+🔭 My current focus is Data Ananlysis/ Business Intelligence with PostgreSQL, TSQL and  Data Visualisation with Power BI.
 
 
 🌱 My future plans includes expanding my skillset through working on Machine Learning, Deep Learning and AI 
